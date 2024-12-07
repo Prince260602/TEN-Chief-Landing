@@ -9,7 +9,7 @@ function HomePage() {
     <>
       <div className="container">
         <video autoPlay muted loop className="background-video">
-        <source src="/videos/videoplayback.webm" type="video/webm" />
+        <source src="/videos/videoplayback.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <div className="content">
